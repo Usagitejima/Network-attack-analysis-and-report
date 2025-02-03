@@ -1,4 +1,4 @@
-# Network-attack-analysis-and-report
+# TCP dump analysis
 
 - During my progress of Google Cybersecurity certificate course, I analyzed Wireshark TCP HTTP log to identify why connection timeout error message was appearing when attempt to visit a company's website. 
 - Below are my incident report after analyzing the issue, and Wireshark TCP HTTP log are provided. 
