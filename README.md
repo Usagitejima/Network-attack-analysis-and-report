@@ -16,3 +16,16 @@
 
 - [tcpdump traffic log](https://github.com/Usagitejima/Network-attack-analysis-and-report/blob/main/tcpdump%20traffic%20log.pdf)
 - [Security incident report](https://github.com/Usagitejima/Network-attack-analysis-and-report/blob/main/Security%20incident%20report.pdf)
+
+
+<h2> 3. Network attack analysis and Security Hardening recommendations </h2>
+
+- After a major data breach, I analyzed the company's current security conditions and recommended some security hardening practices to be implemented.
+- Below are my security report after analyzing the issue, and some vulnerabilities found within the organization's network are provided.
+
+- Vulnerabilities found within the network: 
+  - The organization’s employees' share passwords.
+  - The admin password for the database is set to the default.
+  - The firewalls do not have rules in place to filter traffic coming in and out of the network.
+  - Multifactor authentication (MFA) is not used. 
+- [Security risk assessment report](https://github.com/Usagitejima/Network-attack-analysis-and-report/blob/002f76ed1a1be9ef2f60918bb91f682d97da43d8/Security%20risk%20assessment%20report.pdf)
