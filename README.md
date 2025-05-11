@@ -29,3 +29,11 @@
   - The firewalls do not have rules in place to filter traffic coming in and out of the network.
   - Multifactor authentication (MFA) is not used. 
 - [Security risk assessment report](https://github.com/Usagitejima/Network-attack-analysis-and-report/blob/002f76ed1a1be9ef2f60918bb91f682d97da43d8/Security%20risk%20assessment%20report.pdf)
+
+
+<h2> 4. DDoS attack and NIST CSF practice </h2>
+
+- After a DDoS attack occured in an organization, the organization took actions regarding this attack and I analyzed and recommended neseccary practices using NIST CSF. 
+- Below are my analysis provided. 
+
+- [Incident report analysis](https://github.com/Usagitejima/Network-attack-analysis-and-report/blob/0cfc73c07a782b85ee01ae4278ab98af5a43d2bf/Incident%20report%20analysis.pdf)
